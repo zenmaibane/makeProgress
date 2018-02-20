@@ -1,2 +1,2 @@
 
-window.location.href = "https://zenmaibane.github.io/makeProgress/";
+window.location.href = "https://zenmaibane.github.io/makeProgressPage/";
